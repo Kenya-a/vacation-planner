@@ -185,4 +185,4 @@ const StyledWrapper = styled.div`
   width: 600px;
 `;
 
-export default FormikLoginForm;
+export default FormikLoginForm
